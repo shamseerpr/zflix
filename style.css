@@ -1,0 +1,81 @@
+body.backgrount-c{
+    background-color: black;
+
+}
+.bg-c{
+    background-color: black;
+}
+.Z{
+    font-weight: bold;
+    color: red;
+    
+}
+.bg-p{
+    background-color: red;
+}
+.i{
+    width: 80px;
+    max-height:450px;
+}
+.card:hover {
+    transform: scale(1.1);
+    transition: transform 0.2s ease;
+    
+}
+  
+.card{
+    background-color: black;
+    
+}
+
+.video {
+    max-width: 100%;
+  }
+
+@media all and ( max-width: 500px){
+    .card{
+        background-color:black;
+    width: 400px;
+    
+    }
+}
+
+.c{
+    color: rgb(160, 160, 150);
+}
+.font{
+    font-size: 18px;
+}
+.hig{
+    height: 32px;
+    width: 32px;
+
+}
+
+.icon-titel{
+    
+    font-size: 12px;
+    font-weight: 500;
+}
+.m{
+    margin-left: 26px;
+}
+.di{
+    height: 1px;
+    width: 100%;
+    background-color: beige;
+
+}
+.top{
+    position: fixed;
+    left: 0%;
+    right: 0;
+    top: -5px;
+    z-index: 100;
+    width: 100%;
+
+}
+
+
+
+
